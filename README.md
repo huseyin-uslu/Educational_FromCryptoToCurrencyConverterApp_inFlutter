@@ -11,8 +11,10 @@ The objective of this tutorial is to learn about using Cupertino and Material Wi
 ## What you will create
 
 We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
-
+__________________________
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![bitcoin_ticker_screen_record](https://user-images.githubusercontent.com/81476500/134933166-29114cce-febb-41bb-aa9a-a3fc4e1b9d97.gif)
+__________________________
 
 ## What you will learn
 
